@@ -54,6 +54,22 @@ header nav a:hover{
     transition: 0.6s;
 }
 
+@keyframes initial-site{
+
+    from{
+        transform: translateY(-100px);
+    }
+
+    top{
+        transform: translateY(0);
+    }
+
+}
+
+header{
+    animation: initial-site 1s 1 backwards;
+}
+
 @media(max-width: 570px){
     header{
         display: flex;
