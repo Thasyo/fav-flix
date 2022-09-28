@@ -53,6 +53,13 @@ footer section h3{
 
 }
 
+.social-media-container{
+
+    position: relative;
+    top: 50px;
+
+}
+
 .social-media-container a{
 
     margin: 8px;
@@ -202,7 +209,7 @@ footer{
 
     to{
 
-        letter-spacing: 3px;
+        letter-spacing: 1.8px;
 
     }
     
@@ -240,6 +247,13 @@ footer section h3{
         padding-right: 105px;
     }
 
+    .social-media-container{
+
+        position: relative;
+        top: 15px;
+    
+    }
+
     .project{
         display: flex;
         flex-direction: column;
@@ -248,11 +262,13 @@ footer section h3{
     }
 
     .project h3{
+        position: relative;
+        right: 5px;
         font-size: 15px;
         margin-bottom: 15px;
         display: inline-block;
         padding-left: 100px;
-        padding-right: 100px;
+        padding-right: 120px;
         margin-left: 10px;
     }
 

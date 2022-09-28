@@ -80,12 +80,22 @@ header{
 
     header p{
         margin-top: 10px;
-        margin-left: -50px;
+        margin-left: 0px;
+        text-align: center;
     }
 
     header nav{
         margin-top: 10px;
         padding-bottom: 15px;
-        margin-right: 50px;
+        margin-left: 50px;
     }
+}
+
+@media(max-width: 380px){
+
+    header nav{
+        font-size: 14px;
+        margin: 0;
+    }
+
 }
