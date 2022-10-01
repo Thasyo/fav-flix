@@ -201,7 +201,7 @@ footer{
 
 /*footer titles*/
 
-@keyframes h3-animation {
+@keyframes letter-animation {
 
     from{
 
@@ -218,7 +218,7 @@ footer{
 }
 
 footer section h3{
-    animation: h3-animation 1.5s 1.3s infinite alternate;
+    animation: letter-animation 1.5s 1.3s infinite alternate;
 }
 
 /*Responsividade*/
