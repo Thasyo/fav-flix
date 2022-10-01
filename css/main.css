@@ -83,6 +83,46 @@ article{
 
 }
 
+.title-subtitle{
+    animation: title-opacity 5s backwards;
+}
+
+.article-container{
+    animation: sections-vapt-vupt 2s backwards;
+}
+
+.article-container:nth-last-child(1){
+    animation-delay: 1.5s;
+}
+
+.article-container:nth-child(3){
+    animation-delay: 0.8s;
+}
+
+@keyframes title-opacity{
+
+    from{
+        opacity: 0;
+    }
+    top{
+        opacity: 1;
+    }
+
+}
+
+@keyframes sections-vapt-vupt{
+
+    from{
+        opacity: 0;
+        transform: rotateY(360deg);
+    }
+    top{
+        opacity: 1;
+        transform: rotateY(360deg);
+    }
+
+}
+
 @media(max-width: 1000px){
 
     .article-container{
