@@ -20,7 +20,7 @@
 
 - <p style="color:#aa33ee; font-size:1.5em;">Objetivo</p> - O objetivo deste projeto é registrar os 3 filmes, séries e jogos favoritos dos usuários.
 
--  <p style="color:#aa33ee; font-size:1.5em;">Propósito</p>  - O propósito deste projeto foi criar um local de armazenamento, para que os usuários possam preencher os campos com os seus respectivos filmes, series e jogos favoritos.
+-  <p style="color:#aa33ee; font-size:1.5em;">Propósito</p>  - O propósito deste projeto foi desenvolver meus estudos, praticando e concretizando conhecimentos em HTML e CSS;
 
 -  <p style="color:#aa33ee; font-size:1.5em;">Motivo</p>  - O motivo que me fez ter essa ideia de projeto, foi baseada numa etapa da minha vida, em que eu estava assistindo longas e curtas metragens frequentemente.
 
